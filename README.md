@@ -74,6 +74,9 @@
 ## experiment 20
 [SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp%2020)
 ![image](https://user-images.githubusercontent.com/113341273/192077801-2acbbed2-45ac-4e35-9c42-3a514f458041.png)
+## experiment 23
+[SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp23)
+![image](https://user-images.githubusercontent.com/113341273/192077875-3f29242b-cd78-453a-92ae-bbc1b1f37e7f.png)
 
 
 
